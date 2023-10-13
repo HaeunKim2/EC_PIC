@@ -7,3 +7,5 @@
 ![problem2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/1fb49240-cfe6-4342-9c2b-566065cc27a6)
 
 ![flow1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/ca7b3a98-0b4e-46c4-8d4b-3c7284eb69c1)
+
+![flow2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/356a035c-4e65-4cc0-8862-9ed1f353d0ec)
