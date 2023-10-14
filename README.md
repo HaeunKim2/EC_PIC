@@ -9,3 +9,5 @@
 ![flow1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/ca7b3a98-0b4e-46c4-8d4b-3c7284eb69c1)
 
 ![flow2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/356a035c-4e65-4cc0-8862-9ed1f353d0ec)
+
+![flowchart2-1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/72e22d3b-1e83-4034-8e63-823848576a95)
