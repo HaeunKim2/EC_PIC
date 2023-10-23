@@ -13,3 +13,5 @@
 ![flowchart2-1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/72e22d3b-1e83-4034-8e63-823848576a95)
 
 ![RCmotor](https://github.com/HaeunKim2/EC_PIC/assets/111586719/cc762725-007e-4dd1-b532-0b17bb0d8ccd)
+
+![ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/88a543f9-41ea-4bf2-a1dc-6e3ca41e1c28)
