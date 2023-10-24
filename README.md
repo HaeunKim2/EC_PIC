@@ -16,4 +16,5 @@
 
 ![ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/88a543f9-41ea-4bf2-a1dc-6e3ca41e1c28)
 
-![Flowchart1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/e14da9ae-9824-4f91-b287-a5efb3f9aff2)
+![Flowchart1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/3e35adcb-d343-4950-ac4b-e9d91dc04c1b)
+
