@@ -21,3 +21,5 @@
 ![exp1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/1eb57885-03c7-476d-b17b-30f1cdeddd2f)
 
 ![ckt2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/4833ae31-7285-48a2-bd8e-868a9d0ee4c6)
+
+![FLOWCHART2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5ed84091-7a13-45dd-845f-806154742d5a)
