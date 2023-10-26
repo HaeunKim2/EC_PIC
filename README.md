@@ -27,3 +27,5 @@
 ![exp2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/a1ff80fe-7e1a-4620-9aad-090d5d019387)
 
 ![0 025](https://github.com/HaeunKim2/EC_PIC/assets/111586719/38ea5038-d21a-4376-af54-1d4ed052adb1)
+
+![0 075](https://github.com/HaeunKim2/EC_PIC/assets/111586719/f66d0e90-44dd-40a9-a7fe-98a97ba2f165)
