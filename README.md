@@ -32,3 +32,5 @@
 
 ![SR04](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5a52507d-b937-4072-b2f2-b17f37da2efb)
 ![0 125](https://github.com/HaeunKim2/EC_PIC/assets/111586719/6be4cb7a-07d4-47d3-b07d-3b7a9e457876)
+
+![HW](https://github.com/HaeunKim2/EC_PIC/assets/111586719/4c5e474a-a51f-418f-9ef6-8872fab35cc8)
