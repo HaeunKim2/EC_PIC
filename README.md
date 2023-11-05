@@ -42,3 +42,5 @@
 ![flowcht](https://github.com/HaeunKim2/EC_PIC/assets/111586719/bb398488-1776-4147-b7ba-44df2b2822a3)
 
 ![flwcht](https://github.com/HaeunKim2/EC_PIC/assets/111586719/958a42f2-e17f-4ce4-b4c6-18ce7f28f348)
+
+![discussion](https://github.com/HaeunKim2/EC_PIC/assets/111586719/89c2b400-f628-4977-97ea-c3f1160d0914)
