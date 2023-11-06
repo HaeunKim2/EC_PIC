@@ -51,3 +51,5 @@
 ![FullStep](https://github.com/HaeunKim2/EC_PIC/assets/111586719/a902fc73-22c4-4587-968c-5a24a3b5ba93)
 
 ![Full1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/aa21293c-b78b-413c-9ceb-e0f3541da3f4)
+
+![Half](https://github.com/HaeunKim2/EC_PIC/assets/111586719/f9f34246-c31f-4b96-919b-b55385ce9933)
