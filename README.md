@@ -39,6 +39,9 @@
 
 ![FullStep](https://github.com/HaeunKim2/EC_PIC/assets/111586719/592d9ed6-6680-4b33-b560-66d19b484d2c)
 
+![HW](https://github.com/HaeunKim2/EC_PIC/assets/111586719/01ff5050-926d-440f-88b4-acd087360d96)
+
+
 ![flowcht](https://github.com/HaeunKim2/EC_PIC/assets/111586719/bb398488-1776-4147-b7ba-44df2b2822a3)
 
 ![flwcht](https://github.com/HaeunKim2/EC_PIC/assets/111586719/958a42f2-e17f-4ce4-b4c6-18ce7f28f348)
