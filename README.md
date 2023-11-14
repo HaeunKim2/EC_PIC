@@ -79,3 +79,5 @@
 ![blue](https://github.com/HaeunKim2/EC_PIC/assets/111586719/222a4fa2-9524-41e9-b4a2-05c6df2dbf75)
 
 ![motordriver](https://github.com/HaeunKim2/EC_PIC/assets/111586719/9c9eac85-3738-43fa-a63a-990828ab56fc)
+
+![exp](https://github.com/HaeunKim2/EC_PIC/assets/111586719/eaef9e80-148a-4337-9b3e-bdacd4780edd)
