@@ -74,6 +74,8 @@
 
 ![Bluetooth](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5b88fe21-820e-4164-84cb-44c2b77e2c04)
 
+![ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/82d77035-ff81-430d-b317-dec943908798)
+
 ![blue](https://github.com/HaeunKim2/EC_PIC/assets/111586719/222a4fa2-9524-41e9-b4a2-05c6df2dbf75)
 
 ![motordriver](https://github.com/HaeunKim2/EC_PIC/assets/111586719/9c9eac85-3738-43fa-a63a-990828ab56fc)
