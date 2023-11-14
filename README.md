@@ -69,3 +69,5 @@
 ![exp](https://github.com/HaeunKim2/EC_PIC/assets/111586719/1c36adf9-dc83-470c-bcd6-8e7196e44d3b)
 
 ![trap](https://github.com/HaeunKim2/EC_PIC/assets/111586719/7b8525e7-b861-4da3-9d2f-5692e7273324)
+
+![usart1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5354bf4e-7674-4c48-9521-1dbae210cfd6)
