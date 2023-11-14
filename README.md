@@ -71,3 +71,5 @@
 ![trap](https://github.com/HaeunKim2/EC_PIC/assets/111586719/7b8525e7-b861-4da3-9d2f-5692e7273324)
 
 ![usart1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5354bf4e-7674-4c48-9521-1dbae210cfd6)
+
+![Bluetooth](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5b88fe21-820e-4164-84cb-44c2b77e2c04)
