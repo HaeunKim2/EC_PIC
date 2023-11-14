@@ -73,3 +73,5 @@
 ![usart1](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5354bf4e-7674-4c48-9521-1dbae210cfd6)
 
 ![Bluetooth](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5b88fe21-820e-4164-84cb-44c2b77e2c04)
+
+![blue](https://github.com/HaeunKim2/EC_PIC/assets/111586719/222a4fa2-9524-41e9-b4a2-05c6df2dbf75)
