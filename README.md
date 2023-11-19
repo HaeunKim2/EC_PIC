@@ -85,3 +85,8 @@
 ![exp2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/4e15ef2b-c0e4-4a6f-ab22-1a713b02523a)
 
 ![Intro](https://github.com/HaeunKim2/EC_PIC/assets/111586719/19a811b8-86c8-4871-a2e8-9e5841cce41f)
+
+![Motor_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/06018b4e-6972-4cc4-90e2-451b4e926ef0)
+![Ultrasonic_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/1d6406d7-c323-42f6-8382-b6f9b0bb8627)
+![Bluetooth_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c42259f9-07bd-491d-ada2-ba12ce2e0fcc)
+![IRsensor_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/ec0f6649-8cc2-4cf6-84a2-e2cf5b4f6aa0)
