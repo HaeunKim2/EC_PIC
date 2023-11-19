@@ -83,3 +83,5 @@
 ![exp](https://github.com/HaeunKim2/EC_PIC/assets/111586719/eaef9e80-148a-4337-9b3e-bdacd4780edd)
 
 ![exp2](https://github.com/HaeunKim2/EC_PIC/assets/111586719/4e15ef2b-c0e4-4a6f-ab22-1a713b02523a)
+
+![Intro](https://github.com/HaeunKim2/EC_PIC/assets/111586719/19a811b8-86c8-4871-a2e8-9e5841cce41f)
