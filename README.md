@@ -93,3 +93,4 @@
 
 ![Bluetooth_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c6ed46c9-d8f2-4c29-b475-12d87f600bfc)
 
+![exp](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c015808a-e7a7-47f7-85c4-7f9dbdae842f)
