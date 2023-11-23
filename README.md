@@ -90,3 +90,6 @@
 ![Ultrasonic_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/1d6406d7-c323-42f6-8382-b6f9b0bb8627)
 ![Bluetooth_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c42259f9-07bd-491d-ada2-ba12ce2e0fcc)
 ![IRsensor_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/ec0f6649-8cc2-4cf6-84a2-e2cf5b4f6aa0)
+
+![Bluetooth_ckt](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c6ed46c9-d8f2-4c29-b475-12d87f600bfc)
+
