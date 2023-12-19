@@ -96,3 +96,5 @@
 ![exp](https://github.com/HaeunKim2/EC_PIC/assets/111586719/c015808a-e7a7-47f7-85c4-7f9dbdae842f)
 
 ![flowcht](https://github.com/HaeunKim2/EC_PIC/assets/111586719/5cdc203c-7d18-4eba-9c66-9b92999b8f9e)
+
+![exp_pic](https://github.com/HaeunKim2/EC_PIC/assets/111586719/12de75ec-e904-47cf-99ed-b3491f32d258)
